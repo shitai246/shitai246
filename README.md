@@ -13,7 +13,7 @@
 ---
 
 ### Skills
-![](https://skillicons.dev/icons?i=html,css,js,java,scala,php,aws,github,git)
+![](https://skillicons.dev/icons?i=html,css,js,jquery,java,scala,php,aws,github,mysql,postgresql)
 
 ---
 
