@@ -26,8 +26,6 @@
 ---
 
 ### Social Media
-<div>
-  <a href="https://x.com/shitai246"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" height="30" /></a>&nbsp;
-  <a href="https://facebook.com/taisuke.shiratori/"><img src="https://github.com/user-attachments/assets/47435849-807b-4d5f-9e41-42ef6a6ff177" alt="facebook" height="30"></a>&nbsp;
-  <a href="https://note.com/shitai246"><img src="https://github.com/user-attachments/assets/d93676f6-53a8-4f38-a750-e71079a27be9" alt="note" height="30"></a>&nbsp;
-</div>
+- [X](https://x.com/shitai246)
+- [facebook](https://facebook.com/taisuke.shiratori/)
+- [note](https://note.com/shitai246)
